@@ -1,9 +1,10 @@
 ## Hi there 👋, I'm Julia
 #### Infrastructure and System Administrator at [RENATER](https://github.com/Renater)
 
-- 🔭 I’m currently working on [vRA-8-SOLIDserver-Plugin](https://github.com/JuliaLblnd/vRA-8-SOLIDserver-Plugin)
+- 🔭 I’m currently working on *Doing my job as well as i could with no means in public services*
 - 😄 Pronouns: She/They
-- 📫 How to reach me: [Twitter](https://twitter.com/JuliaLblnd)
+- 📫 How to reach me: contact [at] julialblnd.fr
+- 📄 Resume: [julialblnd.fr](https://julialblnd.fr/en)
 - ⚡ Fun fact: I know 14 digits of Pi
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julialblnd&show_icons=true&include_all_commits=true&locale=en&theme=radical&hide_border=true" alt="julialblnd" /></p>
