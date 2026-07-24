@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋, I'm Julia</h1>
 <h3 align="center">An Infrastructure and System Administrator from France</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julialblnd&show_icons=true&include_all_commits=true&locale=en&bg_color=45,6E3BC6,C763C2&title_color=E8813A&icon_color=6E3BC6&text_color=F1D448&hide_border=true" alt="julialblnd" /></p>
+<p>&nbsp;<img align="center" src="https://github-stats-extended.vercel.app/api?username=julialblnd&show_icons=true&include_all_commits=true&locale=en&bg_color=45,6E3BC6,C763C2&title_color=E8813A&icon_color=6E3BC6&text_color=F1D448&hide_border=true" alt="julialblnd" /></p>
 
 <p align="left"> <a href="https://twitter.com/julialblnd" target="blank"><img src="https://img.shields.io/twitter/follow/julialblnd?logo=twitter&style=for-the-badge" alt="julialblnd" /></a> </p>
 
